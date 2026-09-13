@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "quillfish.aternos.host:44190",
+    "ip": "MonsterSMPv3.aternos.me",
     "port": 44190,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
