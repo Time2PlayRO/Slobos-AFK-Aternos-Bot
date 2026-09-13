@@ -8,7 +8,7 @@
   "server": {
     "ip": "MonsterSMPv3.aternos.me",
     "port": 44190,
-    "version": "26.2",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
